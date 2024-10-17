@@ -1,0 +1,18 @@
+.footer{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 23%, rgba(0,212,255,1) 100%);
+}
+.color-enlace{
+    color: white;
+}
+
+
+.jumbotron{
+    background-image: url("../img/623eb98b16288.jpeg");
+    background-size: cover;
+    color: white;
+}
+
+hr{
+    background-color: white;
+}
